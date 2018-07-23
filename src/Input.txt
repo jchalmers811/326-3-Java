@@ -1,0 +1,56 @@
+You are going
+
+You (1 incl) are going
+You (2 incl) are going
+You (3 incl) are going
+
+You (1 excl) are going
+You (2 excl) are going
+You (3 excl) are going
+
+They are going
+
+They (1 excl) are going
+They (2 excl) are going
+They (3 excl) are going
+
+They (1 incl) are going
+They (2 incl) are going
+They (3 incl) are going
+
+We are going
+
+We (1 excl) are going
+We (2 excl) are going
+We (3 excl) are going
+
+We (1 excl) are going
+We (2 excl) are going
+We (3 excl)() are going
+
+
+I am going
+They are making
+He is seeing
+She is wanting
+We are calling
+He is asking
+They are reading
+
+go
+make
+see
+want
+call
+ask
+read
+learn
+
+We (3 excl) are going
+I am going
+They (2 excl) are reading
+You (2 incl) are reading
+I went
+I will go
+gibberish
+We are coming
